@@ -1,0 +1,9 @@
+package model.entities;
+
+public class Person {
+	private Integer id;
+	private String name;
+	private String email;
+	
+	
+}

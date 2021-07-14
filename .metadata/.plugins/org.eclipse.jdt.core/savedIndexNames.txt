@@ -1,0 +1,17 @@
+INDEX VERSION 1.131+B:\Pessoal\Udemy\Cursos\Java\WorkspaceFX\.metadata\.plugins\org.eclipse.jdt.core
+550314454.index
+694572457.index
+2073314645.index
+4140713648.index
+3345495173.index
+1493999910.index
+522735875.index
+3471464299.index
+1575520126.index
+1606438365.index
+4222862228.index
+345567733.index
+2960065555.index
+772510128.index
+3070410762.index
+3064600339.index
